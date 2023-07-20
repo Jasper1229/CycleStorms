@@ -1,0 +1,9 @@
+name: CycleStorms
+version: '${project.version}'
+main: ml.jasper1229.cyclestorms.CycleStorms
+api-version: 1.20
+load: STARTUP
+authors: [ Jasper1229 ]
+description:
+  Plugin that simulates storms from the game "The Cycle: Frontier"
+website: jasper1229.ml
