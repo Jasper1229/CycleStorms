@@ -7,3 +7,6 @@ authors: [ Jasper1229 ]
 description:
   Plugin that simulates storms from the game "The Cycle: Frontier"
 website: jasper1229.ml
+commands:
+  strike:
+    description: Strikes player location with lightning
